@@ -7,8 +7,8 @@ This library can be imported into your diagrams.net project and used for designi
 In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript logic by reading and following the logic of the FlowCard.
 
 There are two ways to use the library.
-  - IMPORT URL is needed to manually import the library from within a project. 
-  - BYPASS URL will open a new tab and create a project while importing the library at for you.
+  - IMPORT URL: Copy/paste the URL to manually import the library from within a project. 
+  - BYPASS URL: Open URL to automatically create a new project with the library already imported.
 
 IMPORT URL: `https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/ergo-flowcard.xml`
 
