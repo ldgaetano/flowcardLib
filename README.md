@@ -10,13 +10,13 @@ In the future, a standalone tool could be developed by someone else to generate 
 
 In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript by reading and following the logic of the FlowCard.
 
-There are two ways to use the library.
-  - IMPORT URL: Copy/paste the URL to manually import the library from within a project. 
-  - BYPASS URL: Open URL to automatically create a new project with the library already imported.
+There are two ways to use the library:
+  1. IMPORT: Copy/paste the URL to manually import the library from within a project. 
+  2. BYPASS: Open URL to automatically create a new project with the library already imported.
 
 IMPORT URL: `https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/ergo-flowcard.xml`
 
-BYPASS URL: `https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flucagdangelo%2FflowcardLib%2Fmain%2Fergo-flowcard.xml`
+BYPASS URL: `app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flucagdangelo%2FflowcardLib%2Fmain%2Fergo-flowcard.xml`
 
 I hope this is useful. If there are any issues, please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
 
