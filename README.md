@@ -2,7 +2,7 @@
 Ergo FlowCard library for diagrams.net
 
 ## Details
-This library can be imported into your diagrams.net project and used for designing smart contracts visually for the Ergo Platform. Simply modify the components to fit your needs. It should help you prototype quickly and make sure your logic makes sense before you write any code. In the future, a standalone tool could be developed by someone else to generate FlowCards into ErgoScript code directly, I don't know how to do that :/
+This library can be imported into your diagrams.net project and used for designing smart contracts visually for the Ergo Platform. Simply modify the components to fit your needs. It should help you to convert sketches into diagrams for good documentation, prototype quickly, and make sure your logic makes sense before you write any code. In the future, a standalone tool could be developed by someone else to generate FlowCards into ErgoScript code directly, I don't know how to do that :/
 
 In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript logic by reading and following the logic of the FlowCard.
 
@@ -14,7 +14,7 @@ IMPORT URL: `https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/erg
 
 BYPASS URL: `https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flucagdangelo%2FflowcardLib%2Fmain%2Fergo-flowcard.xml`
 
-I hope this is usefull. If there are any issues, please let me know and send me an [email](ldgaetano@protonmail.com).
+I hope this is useful. If there are any issues, please let me know and send me an [email](ldgaetano@protonmail.com).
 
 ## Aknowledgements
 Use the <https://app.diagrams.net> for your project. \
