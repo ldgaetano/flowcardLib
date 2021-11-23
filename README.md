@@ -18,7 +18,7 @@ IMPORT URL: `https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/erg
 
 BYPASS URL: `app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flucagdangelo%2FflowcardLib%2Fmain%2Fergo-flowcard.xml`
 
-I hope this is useful. If there are any issues, please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
+I hope this is useful. If there are any issues, you would like me to add more components, or anything else, then please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
 
 ## Aknowledgements
 Use the <https://app.diagrams.net> for your project. \
