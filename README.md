@@ -20,4 +20,4 @@ I hope this is usefull. If there are any issues, please let me know and send me 
 Use the <https://app.diagrams.net> for your project. \
 To learn how to use custom libraries with diagrams.net, follow [these](https://www.diagrams.net/blog/custom-libraries) instructions. \
 To learn how to create your own library, follow [these](https://jgraph.github.io/drawio-libs/) instructinos. \
-This library was created by following the framework descriped in [this](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post, also cited above.
+This library was created by following the framework described in [this](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post, also cited above.
