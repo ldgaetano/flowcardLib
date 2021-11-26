@@ -19,10 +19,10 @@ BYPASS URL: `app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubuserconte
 I hope this is useful. If there are any issues, you would like me to add more components, or anything else, then please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
 
 ## Aknowledgements
-Use the <https://app.diagrams.net> for your project. \
+Use the <https://app.diagrams.net> for your project.
 
-To learn how to use custom libraries for diagrams.net, follow [these](https://www.diagrams.net/blog/custom-libraries) instructions. \
+To learn how to use custom libraries for diagrams.net, follow [these](https://www.diagrams.net/blog/custom-libraries) instructions.
 
-To learn how to create your own library for diagrams.net, follow [these](https://jgraph.github.io/drawio-libs/) instructinos. \
+To learn how to create your own library for diagrams.net, follow [these](https://jgraph.github.io/drawio-libs/) instructions.
 
 This library was created by following the framework described in [this](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post, also cited above.
