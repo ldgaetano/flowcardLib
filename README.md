@@ -6,7 +6,7 @@ This library can be imported into your diagrams.net project and used for designi
 
 It should help you to convert sketches into diagrams for good documentation, prototype quickly, and make sure your logic makes sense before you write any code. 
 
-In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript by reading and following the logic of the FlowCard.
+In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript by reading and following the logic of the FlowCard you created.
 
 ## Importing
 Instructions on how to import a library into diagrams.net can be found [here](https://www.diagrams.net/blog/custom-libraries).\
