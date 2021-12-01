@@ -8,13 +8,17 @@ It should help you to convert sketches into diagrams for good documentation, pro
 
 In order to use this library properly, you **must** follow the framework described in [**this**](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post. By doing so, you will be able to write your ErgoScript by reading and following the logic of the FlowCard.
 
-There are two ways to use the library:
+## Importing
+There are two ways to use the most recent library:
   1. IMPORT: Copy/paste the URL to manually import the library from within a project. 
   2. BYPASS: Open URL to automatically create a new project with the library already imported.
 
 IMPORT URL: `https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/ergo-flowcard.xml`
 
 BYPASS URL: `app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flucagdangelo%2FflowcardLib%2Fmain%2Fergo-flowcard.xml`
+
+## Notes
+New versions will be added if more components want to be added. URL provided will be for most recent version. Older versions will be included in the `ergo-flowcardLib-OLD.txt` file.
 
 I hope this is useful. If there are any issues, you would like me to add more components, or anything else, then please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
 
