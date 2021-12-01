@@ -27,4 +27,4 @@ To learn how to use custom libraries for diagrams.net, follow [these](https://ww
 
 To learn how to create your own library for diagrams.net, follow [these](https://jgraph.github.io/drawio-libs/) instructions.
 
-This library was created by following the framework described in [this](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post, also cited above.
+This library was created by following the framework described in [this](https://ergoplatform.org/en/blog/2020_04_29_flow_cards/) Ergo Platform blog post.
