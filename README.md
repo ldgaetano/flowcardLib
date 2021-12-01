@@ -13,7 +13,7 @@ Instructions on how to import a library into diagrams.net can be found [here](ht
 
 **Copy/paste** the `IMPORT URL` below into your diagrams.net project to manually import the library:
 
-`https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/ergo-flowcardLib-1.0.xml`
+`https://raw.githubusercontent.com/lucagdangelo/flowcardLib/main/ergo-flowcardLib-1.0.0.xml`
 
 ## Notes
 The `IMPORT URL` provided is for the most recent version. New versions will be created when more components want to be added. Older URL versions will still function since files will be located in the same location within the repository.
