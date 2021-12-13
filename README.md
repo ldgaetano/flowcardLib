@@ -18,7 +18,10 @@ Instructions on how to import a library into diagrams.net can be found [here](ht
 ## Notes
 The `IMPORT URL` provided is for the most recent version. New versions will be created when more components want to be added. Older URL versions will still function since files will be located in the same location within the repository.
 
-I hope this is useful. If there are any issues, or you would like me to add more components, then please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
+If there are any issues, or you would like me to add more components, then please let me know by creating a GitHub issue or sending me an [email](ldgaetano@protonmail.com).
+
+## Tipping
+If you have found this library useful for your own projects and feel like tipping me some ERGs, you can do so at this Ergo Address: `9fvsFJG4119MQXBPiAaiDjeznEWHyc4MAhTWHGvbEPGeDyiucB4`
 
 ## Aknowledgements
 Use the <https://app.diagrams.net> for your project.
